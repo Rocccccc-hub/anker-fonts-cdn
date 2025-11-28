@@ -1,0 +1,55 @@
+/**
+ * Mont For Anker - Corporate Font
+ * Version: 1.01
+ * Usage: https://github.com/YOUR_USERNAME/anker-fonts-cdn
+ */
+
+/* Book - 300 */
+@font-face {
+  font-family: 'Mont For Anker';
+  src: url('./fonts/MontForAnker-Book.woff2') format('woff2'),
+       url('./fonts/MontForAnker-Book.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Regular - 400 */
+@font-face {
+  font-family: 'Mont For Anker';
+  src: url('./fonts/MontForAnker-Regular.woff2') format('woff2'),
+       url('./fonts/MontForAnker-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* SemiBold - 600 */
+@font-face {
+  font-family: 'Mont For Anker';
+  src: url('./fonts/MontForAnker-SemiBold.woff2') format('woff2'),
+       url('./fonts/MontForAnker-SemiBold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Bold - 700 */
+@font-face {
+  font-family: 'Mont For Anker';
+  src: url('./fonts/MontForAnker-Bold.woff2') format('woff2'),
+       url('./fonts/MontForAnker-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Heavy - 900 */
+@font-face {
+  font-family: 'Mont For Anker';
+  src: url('./fonts/MontForAnker-Heavy.woff2') format('woff2'),
+       url('./fonts/MontForAnker-Heavy.woff') format('woff');
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
