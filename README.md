@@ -7,13 +7,13 @@ Mont For Anker 企业字体 CDN 资源库
 ### 方法 1: 通过 link 标签引入
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/YOUR_USERNAME/anker-fonts-cdn/mont-for-anker.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rocccccc-hub/anker-fonts-cdn/mont-for-anker.css">
 ```
 
 ### 方法 2: 在 CSS 中使用 @import
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/YOUR_USERNAME/anker-fonts-cdn/mont-for-anker.css');
+@import url('https://cdn.jsdelivr.net/gh/Rocccccc-hub/anker-fonts-cdn/mont-for-anker.css');
 ```
 
 ### 应用字体
@@ -46,7 +46,7 @@ body {
 在导出的 HTML 文件的 `<head>` 标签中添加：
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/YOUR_USERNAME/anker-fonts-cdn/mont-for-anker.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Rocccccc-hub/anker-fonts-cdn/mont-for-anker.css">
 ```
 
 然后在 CSS 中应用：
